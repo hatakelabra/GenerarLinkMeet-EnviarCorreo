@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1927
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AgendaMeet", "AgendaMeet\AgendaMeet.vbproj", "{FFD7C99E-CF8F-4BA5-BE7A-3403B8A56703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFD7C99E-CF8F-4BA5-BE7A-3403B8A56703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD7C99E-CF8F-4BA5-BE7A-3403B8A56703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD7C99E-CF8F-4BA5-BE7A-3403B8A56703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD7C99E-CF8F-4BA5-BE7A-3403B8A56703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BA231B4-8DC3-4A5E-9604-6229273A84FF}
+	EndGlobalSection
+EndGlobal
